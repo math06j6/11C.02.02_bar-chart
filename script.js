@@ -38,6 +38,6 @@ function setHeight(number) {
 
 
   // goes to delay function
-  setTimeout(start, 100);
+  setTimeout(start, 500);
 }
 
